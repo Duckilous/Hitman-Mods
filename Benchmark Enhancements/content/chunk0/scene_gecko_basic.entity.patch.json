@@ -1,0 +1,12 @@
+{
+    "tempHash": "00E300E2823DFBF2",
+    "tbluHash": "00BDE456FCB7267F",
+    "patch": [
+        {
+            "op": "add",
+            "path": "/externalScenes/-",
+            "value": "[assembly:/_pro/scenes/missions/golden/mission_gecko/intel_8core_gecko.brick].pc_entitytype"
+        }
+    ],
+    "patchVersion": 4
+}

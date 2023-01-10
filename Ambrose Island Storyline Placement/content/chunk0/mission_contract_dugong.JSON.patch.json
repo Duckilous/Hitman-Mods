@@ -1,0 +1,10 @@
+{
+    "file": "006B7E2A4743B4B4", 
+    "patch": [
+		{ 
+			"op": "add",
+			"path": "/Metadata/RequiredUnlockable",
+			"value": "ACCESS_HIT_MAGPIE"
+		}
+	]
+}

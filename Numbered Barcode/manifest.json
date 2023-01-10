@@ -1,0 +1,9 @@
+{
+	"version": "1.2.0",
+	"id": "Duckilous.NumberedBarcode",
+	"name": "Numbered Barcode",
+	"description": "Updates 47's barcode and adds the numbers \"640509-040147\" below it.",
+	"authors": ["Duckilous"],
+	"frameworkVersion": "2.2.2",
+	"contentFolders": ["content"],
+}

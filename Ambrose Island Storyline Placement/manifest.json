@@ -1,0 +1,9 @@
+{
+	"version": "1.1.0",
+	"id": "Duckilous.ReorderedStoryline",
+	"name": "Ambrose Island Storyline Placement",
+	"description": "A simple trivial mod that adds \"Shadows in the Water\" mission to HITMAN 2's storyline in the campaign menu. Offline Mode only.",
+	"authors": ["Duckilous"],
+	"frameworkVersion": "2.2.2",
+	"contentFolders": ["content"],
+}

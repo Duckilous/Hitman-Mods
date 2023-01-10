@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"id": "Duckilous.UnlimitedSavesMaster",
+	"name": "Unlimited Saves for Master Difficulty",
+	"description": "Allows you to save as many times as you want on Master Difficulty. Offline Mode only.",
+	"authors": ["Duckilous"],
+	"frameworkVersion": "2.2.2",
+	"contentFolders": ["content"],
+}

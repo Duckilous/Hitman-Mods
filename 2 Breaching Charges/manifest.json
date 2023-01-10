@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"id": "Duckilous.TwoBreachCharges",
+	"name": "2 Breaching Charges",
+	"description": "Gives Agent 47 an additional Remote Breaching Charge just like in HITMAN 2016. Offline Mode only.",
+	"authors": ["Duckilous"],
+	"frameworkVersion": "2.2.2",
+	"contentFolders": ["content"],
+}

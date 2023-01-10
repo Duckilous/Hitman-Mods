@@ -1,0 +1,90 @@
+{
+    "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE": {
+        "Id": "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE",
+        "Guid": "2da99736-edea-40ce-8a57-e263c36b206d",
+        "Type": "gear",
+        "Subtype": "explosive",
+        "ImageId": "",
+        "RMTPrice": 149,
+        "GamePrice": 149,
+        "IsPurchasable": false,
+        "IsPublished": true,
+        "IsDroppable": false,
+        "Capabilities": [],
+        "Qualities": {},
+        "Properties": {
+            "Quality": 4,
+            "LoadoutSlot": "gear",
+            "Rarity": "common",
+            "GameAssets": [
+                "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE",
+				"PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE"
+            ],
+            "RepositoryId": "fc715a9a-3bf1-4768-bd67-0def61b92551",
+            "RepositoryAssets": [
+                "fc715a9a-3bf1-4768-bd67-0def61b92551",
+				"fc715a9a-3bf1-4768-bd67-0def61b92551"
+            ],
+            "UnlockOrder": 5
+        },
+        "Rarity": "common"
+    },
+	"PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S2": {
+        "Id": "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S2",
+        "Guid": "2364becc-2b46-4b42-a451-df3c5c56ff3b",
+        "Type": "gear",
+        "Subtype": "explosive",
+        "ImageId": "",
+        "RMTPrice": 149,
+        "GamePrice": 149,
+        "IsPurchasable": false,
+        "IsPublished": true,
+        "IsDroppable": false,
+        "Capabilities": [],
+        "Qualities": {},
+        "Properties": {
+            "Quality": 3,
+            "LoadoutSlot": "gear",
+            "Rarity": "common",
+            "RepositoryId": "9d5daae3-10c8-4f03-a85d-9bd92861a672",
+			"GameAssets": [
+                "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S2",
+                "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S2"
+            ],
+            "RepositoryAssets": [
+                "9d5daae3-10c8-4f03-a85d-9bd92861a672",
+                "9d5daae3-10c8-4f03-a85d-9bd92861a672"
+            ]
+        },
+        "Rarity": "common"
+    },
+    "PROP_DEVICE_ICA_MODULAR_BREACHCHARGE_S3": {
+        "Id": "PROP_DEVICE_ICA_MODULAR_BREACHCHARGE_S3",
+        "Guid": "f2b49585-0fe9-43f4-8fcd-3354c32a5bb4",
+        "Type": "gear",
+        "Subtype": "explosive",
+        "ImageId": "",
+        "RMTPrice": 149,
+        "GamePrice": 149,
+        "IsPurchasable": false,
+        "IsPublished": true,
+        "IsDroppable": false,
+        "Capabilities": [],
+        "Qualities": {},
+        "Properties": {
+            "Quality": 3,
+            "LoadoutSlot": "gear",
+            "Rarity": "common",
+            "RepositoryId": "293af6cc-dd8d-4641-b650-14cdfd00f1de",
+			"GameAssets": [
+                "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S3",
+                "PROP_DEVICE_ICA_MODULAR_REMOTE_BREACHCHARGE_S3"
+            ],
+            "RepositoryAssets": [
+                "293af6cc-dd8d-4641-b650-14cdfd00f1de",
+                "293af6cc-dd8d-4641-b650-14cdfd00f1de"
+            ]
+        },
+        "Rarity": "common"
+    }
+}

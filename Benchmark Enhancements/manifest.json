@@ -1,0 +1,9 @@
+{
+	"version": "1.1.0",
+	"id": "Duckilous.BenchmarkEnhancements",
+	"name": "Enhancements from Benchmark",
+	"description": "Makes Dubai and Dartmoor more immersive I guess. Now works online!",
+	"authors": ["Duckilous"],
+	"frameworkVersion": "2.2.2",
+	"contentFolders": ["content"],
+}

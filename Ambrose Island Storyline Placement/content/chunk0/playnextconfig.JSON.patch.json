@@ -1,0 +1,61 @@
+{ 
+	"file": "0086B66F8187325D",
+    "patch": [
+		{
+			"op": "replace",
+			"path": "/Contracts/82f55837-e26c-41bf-bc6e-fa97b7981fbc",
+			"value": {
+				"_NOTE": "Season 2: Skunk (USA)",
+				"NextItems": [
+					{
+						"CategoryType": "NextMission",
+						"ContentType": "Contract",
+						"Content": {
+							"Id": "b2aac100-dfc7-4f85-b9cd-528114436f6c"
+						}
+					},
+					{
+						"CategoryType": "MainOpportunity",
+						"ContentType": "Opportunity",
+						"Content": {
+							"_NOTE": "For Sale",
+							"RepositoryId": "d4792eb3-a837-4e84-8690-03dbaa9c09f8"
+						}
+					},
+					{
+						"CategoryType": "MainOpportunity",
+						"ContentType": "Opportunity",
+						"Content": {
+							"_NOTE": "Intel Gather",
+							"RepositoryId": "f494d898-fdda-40b5-88f1-ba77c6a3fb87"
+						}
+					},
+					{
+						"CategoryType": "MainOpportunity",
+						"ContentType": "Opportunity",
+						"Content": {
+							"_NOTE": "Health Check",
+							"RepositoryId": "fd4d37ac-33bb-4655-983e-a3be9af0f8f0"
+						}
+					}
+				]
+			}
+		},
+		{
+			"op": "add",
+			"path": "/Contracts/b2aac100-dfc7-4f85-b9cd-528114436f6c",
+			"value": {
+				"_NOTE": "Season 2: Dugong",
+				"NextItems": [
+					{
+						"CategoryType": "NextMission",
+						"ContentType": "Contract",
+						"Content": {
+							"Id": "0d225edf-40cd-4f20-a30f-b62a373801d3"
+						}
+					}
+				]
+			}
+		}
+	]
+}

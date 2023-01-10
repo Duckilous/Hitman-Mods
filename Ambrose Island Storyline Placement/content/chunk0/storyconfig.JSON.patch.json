@@ -1,0 +1,14 @@
+{ 
+	"file": "0093B70B9E704CE0",
+    "patch": [
+		{
+			"op": "add",
+			"path": "/2/StoryData/11",
+			"value": {
+				"Type": "Mission",
+				"Id": "b2aac100-dfc7-4f85-b9cd-528114436f6c",
+				"_comment": "Season 3: Dugong"
+			}
+		}
+	]
+}
