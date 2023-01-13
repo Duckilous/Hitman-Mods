@@ -1,8 +1,7 @@
 # Duckilous' Hitman Mods
 
 **This is a collection of mods that I've made for HITMAN (3): World of Assassination.**  
-Use [Simple Mod Framework](https://github.com/atampy25/simple-mod-framework) to install them.
-
+Place them in the "Mods" folder of [Simple Mod Framework](https://github.com/atampy25/simple-mod-framework) to use them.
 
 ___
 
